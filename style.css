@@ -1,0 +1,12 @@
+body {
+	background:	url(fon.jpg)
+
+}
+P{
+	color: purple;
+	font-size: 30px;
+	font-family: fon; sans-serif
+}
+img { 
+	height: 300px;
+}
